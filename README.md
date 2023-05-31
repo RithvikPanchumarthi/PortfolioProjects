@@ -23,4 +23,9 @@ SQL (Structured Query Language) is indeed an essential tool in data analysis for
 
 8. Performance and Scalability: SQL databases are designed to handle large volumes of data efficiently. They optimize query execution and provide indexing options, ensuring faster retrieval and analysis of data. This scalability is essential for handling big data analysis.
 
+Data Extraction: SQL allows you to extract data from relational databases efficiently. By writing SQL queries, you can retrieve specific subsets of data that are relevant to your analysis.
+
+Data Manipulation: SQL provides powerful data manipulation capabilities. You can use SQL to perform aggregations, sorting, filtering, joining tables, and transforming data. This flexibility enables you to reshape and prepare the data for further analysis.
+
+Data Aggregation: SQL supports various aggregate functions like SUM, COUNT, AVG, MAX, and MIN. These functions allow you to calculate metrics and summary statistics on your data, providing valuable insights during analysis.
 Overall, SQL's power lies in its ability to extract, manipulate, filter, and analyze data from relational databases, making it an essential skill for effective data analysis.
